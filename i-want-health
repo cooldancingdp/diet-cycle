@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diet and Cycling</title>
+    <style>
+        body {
+            font-family: times-new-roman;
+            background-color: Tomato;
+            margin: 20px;
+            padding: 20px;
+        }
+        header, footer {
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #DodgerBlue;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #e9ecef;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Diet and Cycling</h1>
+    </header>
+    <main>
+        <h2>Pre-Ride Nutrition</h2>
+        <ul>
+            <li>Oats and berries for a balanced start</li>
+            <li>Bananas for quick energy boost</li>
+            <li>Hydrate with water or an electrolyte drink</li>
+        </ul>
+
+        <h2>During Ride Nutrition</h2>
+        <ul>
+            <li>Energy gels or bars for sustained energy</li>
+            <li>Keep sipping water or sports drink</li>
+            <li>Fruits like oranges or grapes for a natural sugar boost</li>
+        </ul>
+
+        <h2>Post-Ride Recovery</h2>
+        <ul>
+            <li>Protein shake to repair muscles</li>
+            <li>Carbs like whole grain bread or pasta to replenish energy</li>
+            <li>Stay hydrated with water or a recovery drink</li>
+        </ul>
+
+        <h2>Cycling Tips</h2>
+        <ul>
+            <li>Warm up before you start cycling</li>
+            <li>Maintain a steady pace</li>
+            <li>Listen to your body and take breaks when needed</li>
+        </ul>
+    </main>
+    <footer>
+        <p>Ride safe and eat well!</p>
+    </footer>
+</body>
+</html>
